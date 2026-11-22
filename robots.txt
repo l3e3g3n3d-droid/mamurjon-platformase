@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mamurjom-99.github.io/mamurjon_platformasi/sitemap.xml
